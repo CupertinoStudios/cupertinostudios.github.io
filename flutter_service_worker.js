@@ -54,6 +54,7 @@ const RESOURCES = {"assets/AssetManifest.json": "ffc42902609ac8805fc7073edab2d87
 "assets/images/gpacalculator-grades.png": "383770cdbf02c7af2e21180563aa0e8c",
 "assets/images/gpacalculator-phone-image.png": "a350b9eb626fbe666bc9ee2cd3e86618",
 "assets/images/gpacalculator-support.png": "85d76c9929b73e5b8fe90be8f76472f1",
+"assets/images/home-screen-image.jpg": "33a38b9e6330ca68e65acf0bd949703c",
 "assets/images/huawei-appgallery.png": "7fa16d04c3439ac0d886b8f7e5c4ee01",
 "assets/images/play_store.png": "f791178430ac07ec7d6def146319a08a",
 "assets/NOTICES": "7ea7b7f0eada215645a1c17b89fc7bd9",
@@ -72,9 +73,9 @@ const RESOURCES = {"assets/AssetManifest.json": "ffc42902609ac8805fc7073edab2d87
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8702e7b28d05071f06610a814fc11bd9",
-"/": "8702e7b28d05071f06610a814fc11bd9",
-"main.dart.js": "a05e85d2d88b31ee6634f949abf72088",
+"index.html": "e7c8f83855908ddf72aeaa5d3f0edcd5",
+"/": "e7c8f83855908ddf72aeaa5d3f0edcd5",
+"main.dart.js": "ddf3d2dca0d14eb6f3c8824a686a29c4",
 "manifest.json": "08b707c1edf1bf909098ac32054165ca",
 "version.json": "0412d19446a07d43a896d85e93832b8b"};
 // The application shell files that are downloaded before a service worker can
